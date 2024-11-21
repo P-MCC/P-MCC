@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to my GitHub profile  
 
-I’m Mechmet – a passionate **Software Engineer** and **Data Enthusiast** with expertise in:  
+I’m Mechmet – a passionate **Computer Engineer** and **Data Enthusiast** with expertise in:  
 - **Database Design & Development**  
 - **Deep Learning** (specializing in **Computer Vision**)  
 - **Back-End Development**  
